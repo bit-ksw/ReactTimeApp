@@ -25557,7 +25557,7 @@
 	          null,
 	          React.createElement(
 	            Link,
-	            { to: '/', activeClassName: 'active-link' },
+	            { to: '/countdown', activeClassName: 'active-link' },
 	            'Countdown'
 	          )
 	        )
